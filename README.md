@@ -1,7 +1,3 @@
-Requirements:
- numpy
- keras==1.2.2    (< 2.0 only supported)
- keras-rl
- h5py
- gym
- 
+OpenAI Gym CartPole Implementation.
+Requirements can be installed by
+    sh install.sh
